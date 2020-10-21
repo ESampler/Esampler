@@ -1,4 +1,4 @@
-# BUILDING
+# Building
 Linux environment is Required.
 Install dependencies
 ```
@@ -28,7 +28,7 @@ cd baseline
 make
 ```
 
-Build extended ESampler
+Build ESampler with QuickSampler as Solution Enumerator
 
 ```
 cd extended
@@ -68,9 +68,26 @@ Use '-n' to set the maximum samples number, default value is 10000000.
 
 Use '-t' to set the time limit, default value is 7200.
 
-Use '-d' to enable the derivation procedure, default is disable.
+Use '-d' to enable the derivation procedure, default is disabled.
 
 # Benchmarks
 We use Benchmarks from UniGen. Find them [here](https://github.com/meelgroup/sampling-benchmarks/tree/master/unigen-benchmarks).
+
+# Appendix of Paper
+
+## Algorithm Speed 
+
+## Uniformity Test
+
+## Heuristic 
+
+## Comparision
+
+<object data="figs/E_U.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="figs/E_U.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="figs/E_U.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 
 
