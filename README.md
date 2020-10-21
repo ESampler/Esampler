@@ -83,11 +83,7 @@ We use Benchmarks from UniGen. Find them [here](https://github.com/meelgroup/sam
 
 ## Comparision
 
-<object data="figs/E_U.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="figs/E_U.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="figs/E_U.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![E_U](figs/E_U.pdf)
 
 
 
